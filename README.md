@@ -14,7 +14,7 @@ Join our amazing community on Discord and Twitter.
 <br>
 <img src="https://raw.githubusercontent.com/FrancescoXX/4c-site/main/src/assets/banner.jpg" alt="4C logo">
 
-## 📷 Website overview:
+## 📷 Website overview
 
 This repository concerns the 4C community [website](https://www.4c.rocks/). Visit the website to stay up to date with community members' projects, active members, and other amazing content!
 
